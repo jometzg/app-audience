@@ -9,3 +9,5 @@ Still not quite right. If I use the Microsoft Graph audience of "User.Read", I g
 1. client_id
 2. api://client_id
 3. api://client_id/.default
+
+The code is in a notebook, but ideally the REST requests needed would provide a better understanding.
